@@ -3,8 +3,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=220&section=header&text=DIVYANSHU%20VERMA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Open%20Source%20Learner&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=850&lines=Hi+👋+I'm+Divyanshu+Verma;Software+Engineer;Full+Stack+Developer;Java+Developer;Python+Developer;React+Developer;Learning+Cloud+Computing;Learning+AI+%26+Machine+Learning;Always+Building+Something+Awesome🚀" />
-
 
 </div>
 
@@ -176,10 +174,6 @@ Status      : Learning Every Day 🚀
 ---
 
 <div align="center">
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Atulyadav15/Devdivyan22/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
