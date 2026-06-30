@@ -1,39 +1,193 @@
-# 💫 About Me:
-Software Engineer at Circlo | Turning Ideas into Scalable Tech Solutions | Full Stack Developer | React | Node.js | APIs | Building Scalable Solutions<br><br>
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.divyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/divyanshu-verma-3729a4397) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyanshuverma2203@gmail.com) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=220&section=header&text=DIVYANSHU%20VERMA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Open%20Source%20Learner&descAlignY=58"/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MusicBrainz](https://img.shields.io/badge/Musicbrainz-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=BA478F) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=devdivyan22&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=devdivyan22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=devdivyan22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=850&lines=Hi+👋+I'm+Divyanshu+Verma;Software+Engineer;Full+Stack+Developer;Java+Developer;Python+Developer;React+Developer;Learning+Cloud+Computing;Learning+AI+%26+Machine+Learning;Always+Building+Something+Awesome🚀" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devdivyan22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=devdivyan22&style=for-the-badge&color=0e75b6"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=devdivyan22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<div align="center">
 
-<!--
-**devdivyan22/devdivyan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="95%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me
+
+```yaml
+Name: Divyanshu Verma
+
+Education:
+  B.Tech Computer Science Engineering
+
+Location:
+  India 🇮🇳
+
+Interested In:
+  • Software Development
+  • Full Stack Development
+  • Artificial Intelligence
+  • Open Source
+  • Cloud Computing
+
+Currently Learning:
+  • Data Structures & Algorithms
+  • Backend Development
+  • System Design
+
+Fun Fact:
+  "First solve the problem, then write the code."
+```
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,cs,go,kotlin,php,rust"/>
+
+</p>
+
+---
+
+## 🌐 Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs,vite,jquery"/>
+
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,spring,firebase"/>
+
+</p>
+
+---
+
+## 🛢 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,netlify"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash,powershell"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌍 Language Translator
+
+> Real-time Translator built with Python & Translate API
+
+🔗 language-translator-six-red.vercel.app
+
+---
+
+# 💻 Currently Coding
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atulyadav15&theme=react-dark&hide_border=true"/>
+
+---
+
+# ⚡ Coding Quote
+
+> "Code is like humor. When you have to explain it, it's bad."
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:divyanshuverma2203@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="www.linkedin.com/in/divyanshu-verma-3729a4397">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/devdivyan22">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💻 Terminal
+
+```
+> Initializing...
+
+█████████████████████████ 100%
+
+Name        : Divyanshu Verma
+
+Role        : Software Engineer
+
+Language    : Java | Python | JavaScript
+
+Framework   : React | Flask
+
+Database    : MySQL
+
+Status      : Learning Every Day 🚀
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Atulyadav15/Atulyadav15/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
+
+</div>
