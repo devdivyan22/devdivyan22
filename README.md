@@ -135,7 +135,7 @@ Fun Fact:
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="www.linkedin.com/in/divyanshu-verma-3729a4397">
+<a href="https://www.linkedin.com/in/divyanshu-verma-3729a4397/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -184,3 +184,4 @@ Status      : Learning Every Day 🚀
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
 
 </div>
+
